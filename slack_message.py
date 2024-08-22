@@ -111,7 +111,7 @@ def send_message(url, brand, total_tests, failed_tests, pass_rate, duration):
 
 
 # main
-url = 'https://hooks.slack.com/services/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'
+url= 
 
 # Grabbing in the script arguments
 report_brand = sys.argv[1]
